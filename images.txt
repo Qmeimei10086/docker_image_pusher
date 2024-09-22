@@ -1,1 +1,1 @@
-ubuntu:9.04
+lpenz/ubuntu-jaunty-amd64
