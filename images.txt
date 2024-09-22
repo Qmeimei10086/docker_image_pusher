@@ -1,1 +1,1 @@
-kherney/openbts-n210:1.0
+ubuntu:9.04
